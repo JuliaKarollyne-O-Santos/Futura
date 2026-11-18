@@ -1,9 +1,9 @@
-# <img src="public/futura-f.png" width="35" height="65" style="margin-right:3px;"/>utura EaD
+# <img src="public/futura-f.png" width="35" height="65" style="margin-right:3px;"/>utura
 
 <!-- A imagem acima substitui a letra "F" do nome. Salve o arquivo da letra em public/futura-f.png
      (ou troque o caminho no src). Ajuste width e height se a imagem tiver outra proporção. -->
 
-Futura EaD é uma plataforma de ensino a distância em que o aluno se matricula em cursos, assiste às aulas no próprio ritmo, faz atividades corrigidas automaticamente e recebe um certificado em PDF ao concluir.
+Futura é uma plataforma de ensino a distância (EaD) em que o aluno se matricula em cursos, assiste às aulas no próprio ritmo, faz atividades corrigidas automaticamente e recebe um certificado em PDF ao concluir.
 Os professores criam os cursos, organizam o conteúdo em módulos e aulas e cadastram as atividades. Depois disso, a plataforma funciona sozinha, 24 horas por dia.
 
 O mascote da plataforma é o **Otto**, um polvo que acompanha o aluno em toda a jornada: dá as boas-vindas, comemora cada aula concluída e entrega o certificado no final.
